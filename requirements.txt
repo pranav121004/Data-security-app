@@ -1,0 +1,9 @@
+Flask
+flask-Bootstrap
+simplejson
+Pillow
+flask
+bcrypt
+pymongo
+wtforms
+flask_pymongo
