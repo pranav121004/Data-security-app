@@ -1,4 +1,0 @@
-#Tue Nov 23 19:31:32 IST 2021
-base.0=C\:\\Users\\User\\Desktop\\app\\New folder (2)\\secure_storage_example-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
