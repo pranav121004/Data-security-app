@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/secure_storage_example/BuildConfig.java
+ com.example.secure_storage_example.BuildConfig
